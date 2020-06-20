@@ -1,2 +1,2 @@
 # StartStopApache
-A Batch File to start and stop apache server on windows
+A CMD File to start, restart and stop an apache server on windows.
